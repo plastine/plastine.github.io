@@ -1,4 +1,4 @@
-theme: alembic-jekyll-theme
+theme: jekyll-theme
 title: Southern New Hampshire University Eportfolio
 email: aj77794@gmail.com
 #base URL for landing
@@ -8,3 +8,6 @@ description: Bookmark this to keep an eye on my project updates
 
 includes:
   - head-custom.html
+
+plugins:
+  - jekyll-remote-theme
