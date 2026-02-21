@@ -1,0 +1,70 @@
+import 'package:path/path.dart';
+import 'package:sqflite/sqflite.dart';
+//This file is for creating the login database/user table
+class DatabaseLogin {
+  static final DatabaseLogin instance = DatabaseLogin._();
+  DatabaseLogin._();
+//database name and version
+  static const _dbName = 'login.db';
+  static const _dbVersion = 1;
+//table names and column names
+  static const tableUsers = 'users';
+  static const colId = 'id';
+  static const colUsername = 'username';
+  static const colPassword = 'password';
+//this is for caching, it holds the opened database inside of memory and prevents constant repopening
+  Database? _db;
+//database initialization
+  Future<Database> get database async {
+    if (_db != null) return _db!;
+    _db = await _initDb();
+    return _db!;
+  }
+//filepath is resolved and database is opened
+  Future<Database> _initDb() async {
+    //GET database directorry
+    final dbPath = await getDatabasesPath();
+    final path = join(dbPath, _dbName);
+//actually opens the database
+    return openDatabase(
+      path,
+      version: _dbVersion,
+      onCreate: (db, version) async {//creates the users table
+        await db.execute('''
+          CREATE TABLE $tableUsers (
+            $colId INTEGER PRIMARY KEY AUTOINCREMENT,
+            $colUsername TEXT NOT NULL UNIQUE,
+            $colPassword TEXT NOT NULL
+          )
+        ''');
+      },
+    );
+  }
+
+  // Equivalent to dataBaseLogin.checkLoginPass(userName, password)
+  //this is the login validation method
+  Future<bool> checkLoginPass(String username, String password) async {
+    final db = await database;
+//queries the database
+    final rows = await db.query(
+      tableUsers,
+      columns: [colId],
+      where: '$colUsername = ? AND $colPassword = ?',
+      whereArgs: [username, password],
+      limit: 1,
+    );
+//if true then valid credentials or false if not
+    return rows.isNotEmpty;
+  }
+
+  // used for creating a new user
+  Future<void> createUser(String username, String password) async {
+    final db = await database;
+    //inserts user into the database
+    await db.insert(
+      tableUsers,
+      {colUsername: username, colPassword: password},
+      conflictAlgorithm: ConflictAlgorithm.abort,
+    );
+  }
+}
