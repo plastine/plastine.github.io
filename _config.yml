@@ -1,5 +1,9 @@
 theme: jekyll-theme-slate
 title: Andrew's homepage
+email: aj77794@gmail.com
+#base URL for landing
+url: https://university.Eportfolio
+
 description: Bookmark this to keep an eye on my project updates
 
 includes:
