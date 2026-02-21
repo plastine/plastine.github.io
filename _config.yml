@@ -1,4 +1,4 @@
-theme: remote_theme: daviddarnes/alembic@main
+
 title: Southern New Hampshire University Eportfolio
 email: aj77794@gmail.com
 #base URL for landing
@@ -6,8 +6,11 @@ url: https://university.Eportfolio
 
 description: Bookmark this to keep an eye on my project updates
 
+remote_theme: "daviddarnes/alembic"
+
 includes:
   - head-custom.html
+  -_pages
 
 plugins:
   - jekyll-remote-theme
