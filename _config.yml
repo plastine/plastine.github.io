@@ -20,6 +20,9 @@ minimal_mistakes_skin: "mint"
 
 markdown: kramdown
 highlighter: rouge
+author:
+  name: "Andrew Allen"
+  avatar: "/assets/images/portfolio picture.jpg"
 
 paginate: false
 show_excerpts: false
