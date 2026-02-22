@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Andrew Allen"
-author_profile: false
+author_profile: true
 header:
-  overlay: false
+  overlay_image: /assets/images/portfolio.jpg
+  overlay_filter: 0.4
 ---
