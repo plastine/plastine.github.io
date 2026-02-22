@@ -1,5 +1,5 @@
 ---
 layout: single
 title: "Projects"
-permalink: /projects/cs/360/
+permalink: /projects/cs-360/
 ---
