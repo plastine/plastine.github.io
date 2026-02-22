@@ -11,6 +11,13 @@
   margin-bottom: 1.5em;
 }
 
-body {
-  border: 8px solid red !important;
+html, body {
+  background-color: #111 !important;
+  color: #eaeaea !important;
 }
+
+.page__content, .page, .initial-content {
+  background-color: transparent !important;
+}
+
+a { color: #8ab4f8 !important; }
