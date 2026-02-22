@@ -1,8 +1,3 @@
----
-layout: single
-title: Andrew Allen
-
----
 
 ##Southern New Hampshire University
 
