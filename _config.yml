@@ -14,7 +14,7 @@ includes:
 
 plugins:
   - jekyll-remote-theme
-  -jekyll-include-cache
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "default"
 
