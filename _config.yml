@@ -15,3 +15,8 @@ includes:
 plugins:
   - jekyll-remote-theme
   -jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+highlighter: rouge
