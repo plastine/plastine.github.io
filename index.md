@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Andrew Allen"
+title: "CS-499 Capstone"
 author_profile: true
 header:
   
