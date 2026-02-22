@@ -13,3 +13,12 @@ added
 </a>
 
 [def]: https://github.com/plastine/plastine.github.io/tree/main/CS_499_refactor_340
+
+<a href="https://github.com/plastine/CS_499_refactor_340"
+   class="btn btn--primary"
+   target="_blank"
+   rel="noopener">
+  View Code on GitHub
+</a>
+
+[Read Project Narrative](/CS_499_refactor_340/)
