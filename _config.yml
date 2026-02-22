@@ -6,7 +6,7 @@ url: https://university.Eportfolio
 
 description: Bookmark this to keep an eye on my project updates
 
-remote_theme: daviddarnes/alembic@main
+remote_theme: 
 
 includes:
   - head-custom.html
