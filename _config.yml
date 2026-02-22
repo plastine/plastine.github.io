@@ -1,4 +1,12 @@
-minimal_mistakes_skin: "neon"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "dark"
+
+
+
+
 title: Southern New Hampshire University Eportfolio
 
 #base URL for landing
