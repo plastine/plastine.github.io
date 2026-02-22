@@ -1,1 +1,5 @@
-
+.author__avatar img {
+  object-fit: cover;
+  object-position: center top; /* move focus up */
+  transform: scale(1.3);       /* zoom level */
+}
