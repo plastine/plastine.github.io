@@ -8,7 +8,7 @@ Enhanced Project: Algorithms and Data Structures
 Context: 
 repository link:
 added
-<a href="[def]" class="btn btn--primary">
+<a href="[def]" class="btn btn--info">
   View CS-340 Enhanced Project
 </a>
 
