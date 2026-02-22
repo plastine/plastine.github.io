@@ -1,6 +1,6 @@
 
 title: Southern New Hampshire University Eportfolio
-email: aj77794@gmail.com
+
 #base URL for landing
 url: https://university.Eportfolio
 
@@ -24,7 +24,7 @@ author:
   name: "Andrew Allen"
   avatar: "/assets/images/portfolio picture.jpg"
 
-paginate: false
+paginate: true
 show_excerpts: false
 collections:
   posts:
