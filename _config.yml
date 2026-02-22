@@ -23,6 +23,16 @@ highlighter: rouge
 author:
   name: "Andrew Allen"
   avatar: "/assets/images/portfolio picture.jpg"
+  bio: Trying to learn before Artifical intelligence makes my degree artifical
+
+  loaction: shamokin, PA
+
+  links: 
+  - label: "Github"
+  - icon: "fab fa-github"
+  url: "https://github.com/plastine"
+
+
 
 paginate: true
 show_excerpts: false
