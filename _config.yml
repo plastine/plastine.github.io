@@ -16,7 +16,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "mint"
 
 markdown: kramdown
 highlighter: rouge
+
+paginate: false
+show_excerpts: false
+collections:
+  posts:
+    output: false

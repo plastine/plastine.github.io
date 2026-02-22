@@ -1,7 +1,7 @@
-THIS IS INDEX.MD
 ---
-
 layout: single
-title: Andrew Allen
-
+title: "Andrew Allen"
+author_profile: false
+header:
+  overlay: false
 ---
