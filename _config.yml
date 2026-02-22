@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 markdown: kramdown
 highlighter: rouge
