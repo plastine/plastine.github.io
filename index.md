@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "CS-499 Capstone"
 author_profile: true
 header:
