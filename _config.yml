@@ -16,16 +16,17 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "dark"
 
 markdown: kramdown
 highlighter: rouge
+
 author:
   name: "Andrew Allen"
   avatar: "/assets/images/me eportfolio.jpg"
   bio: Trying to learn before Artifical intelligence makes my degree artifical
 
-  loaction: "Mount Carmel, PA"
+  location: "Mount Carmel, PA"
 
   links: 
   - label: "Github"

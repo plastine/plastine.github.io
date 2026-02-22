@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 Contact Info: 
-**[Email Me](mailto:aj77794@gmail.com)
+**[Email Me][def]
 **phone number: 570-898-4563
-github: plastine
+
+[def]: mailto:aj77794@gmail.com
