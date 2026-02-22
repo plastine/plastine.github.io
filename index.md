@@ -1,9 +1,8 @@
 ---
-layout: splash
+layout: archive
 title: "CS-499 Capstone"
 author_profile: true
 header:
-  
   overlay_image: /assets/images/minty portfolio.jpg
   overlay_filter: 0.2
 ---
