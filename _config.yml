@@ -1,4 +1,4 @@
-
+minimal_mistakes_skin: "neon"
 title: Southern New Hampshire University Eportfolio
 
 #base URL for landing
@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-minimal_mistakes_skin: "neon"
+
 
 markdown: kramdown
 highlighter: rouge
