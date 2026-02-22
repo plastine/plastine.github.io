@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
+gem "jekyll-remote-theme"
 gem "alembic-jekyll-theme"
 
 group :jekyll_plugins do
