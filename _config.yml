@@ -6,7 +6,7 @@ url: https://university.Eportfolio
 
 description: Bookmark this to keep an eye on my project updates
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 includes:
   - head-custom.html
@@ -14,3 +14,4 @@ includes:
 
 plugins:
   - jekyll-remote-theme
+  -jekyll-include-cache
