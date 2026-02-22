@@ -13,7 +13,7 @@ Each page has been enhanced, with screenshots showing the current iterations as 
 Initial Project: CS-340 Project Two
 Enhanced Project: Algorithms and Data Structures
 Context: 
-repository link:
+repository link: [View Enhanced Project]
 added
 
 Initial Project: CS-360 Project Three
