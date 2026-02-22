@@ -156,7 +156,6 @@ DEPENDENCIES
   alembic-jekyll-theme
   jekyll (~> 4.3)
   jekyll-feed
-  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
 
