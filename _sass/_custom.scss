@@ -1,4 +1,9 @@
-.author_avatar img {
+---
+# needed for jekyll
+---
+@import "minimal-mistakes";
+@import "custom";
+.author__avatar img {
   object-fit: cover;
   object-position: center top; /* move focus up */
   transform: scale(2.6);       /* zoom level */

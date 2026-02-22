@@ -29,3 +29,6 @@ show_excerpts: false
 collections:
   posts:
     output: false
+
+sass:
+  sass_dir: _sass
