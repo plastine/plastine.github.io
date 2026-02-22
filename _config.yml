@@ -1,31 +1,24 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
-
 
 
 
 title: Southern New Hampshire University Eportfolio
 
 #base URL for landing
-url: https://university.Eportfolio
+url: "https://plastine.github.io"
+baseurl: ""
 
 description: Bookmark this to keep an eye on my project updates
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-
-includes:
-  - head-custom.html
+include:
+  - _pages
   
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-
-
 markdown: kramdown
 highlighter: rouge
 
@@ -33,17 +26,15 @@ author:
   name: "Andrew Allen"
   avatar: "/assets/images/me eportfolio.jpg"
   bio: gamer, guy, binary-brain fried
-
   location: "Mount Carmel, PA"
-
   links: 
-  - label: "Github"
-    icon: "fab fa-github"
-    url: "https://github.com/plastine"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/plastine"
 
-  - label: "SNHU"
-    icon: "fas fa-link"
-    url: "https://my.snhu.edu/my.policy"
+    - label: "SNHU"
+      icon: "fas fa-link"
+      url: "https://my.snhu.edu/my.policy"
 
 
 
