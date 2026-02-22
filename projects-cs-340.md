@@ -14,7 +14,7 @@ added
 
 [def]: https://github.com/plastine/plastine.github.io/tree/main/CS_499_refactor_340
 
-<a href="https://github.com/plastine/plastine.github.io/tree/main/CS_499_refactor_340" target="_blank" rel="noopener">
+<a href="https://github.com/plastine/plastine.github.io/tree/main/CS_499_refactor_340" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-340 Enhanced Project (GitHub Folder)
 </a>
 
