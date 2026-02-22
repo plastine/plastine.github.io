@@ -30,8 +30,12 @@ author:
 
   links: 
   - label: "Github"
-  - icon: "fab fa-github"
-  url: "https://github.com/plastine"
+    icon: "fab fa-github"
+    url: "https://github.com/plastine"
+
+  - label: "Test"
+    icon: "fas fa-link"
+    url: "https://example.com"
 
 
 
