@@ -14,6 +14,7 @@ I am currently a full-time worker at the 7030 Walmart Distribution Center. I man
  I am also a competitive yugioh player (yummy best deck). Share some 3D prints with me! 
 
 <hr class="neon-divider">
+<!-- included just in case it is necessary. I did utilize the minimal mistakes theme, and wanted to properly attribute this even though it can be used for free. I did NOT clone the repository. -->
 
 **licensing:**
 <a href="https://mmistakes.github.io/minimal-mistakes/docs/license/" class ="btn btn--info" target="_blank" rel="noopener">

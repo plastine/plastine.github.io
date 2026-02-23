@@ -3,7 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 ---
-
+<!-- my actual contact information, with a way to directly send mail to my email --> 
 **[Email Me][def]**
 
 <hr class="neon-divider">

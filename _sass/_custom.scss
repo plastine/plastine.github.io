@@ -5,16 +5,15 @@
   object-fit: cover;
   object-position: 50% 20%;
   transform: scale(1.10);
-}
+}/* this is some transforming and moving of my picture. I initially wanted to use a different picture, but switched to this one quickly*/
 
 .page__content p {
   margin-bottom: 1.5em;
 }
+/* this is used to set and standardize the margin thickness for the page*/
 
-.layout--splash .page__content h1 {
-  color: #1abc9c; /* teal example */
-}
 
+/* this is the neon divider that is used throughout the pages website. It is akin to the divider that comes with minimal mistakes*/
 .neon-divider {
   border: none;
   height: 1px;

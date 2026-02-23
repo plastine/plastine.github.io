@@ -14,6 +14,7 @@ Included in this pages are three applications that showcase adaptability, critic
 
 Throughout this capstone I have self-reviewed previous codebases, which created an interesting feedback loop in my brain. I failed to realize that despite spending so much time on prior projects, my understanding of them became foreign through time. 
 
+<!-- just a divider that is included in the scss section --> 
 <hr class="neon-divider">
 
 <!--embedded youtube links for the mandated code review portion of the class. These are provided by youtube upon hitting share after uploading -->

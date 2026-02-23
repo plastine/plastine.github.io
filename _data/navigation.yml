@@ -1,3 +1,4 @@
+#this is the navigation bar at the top right of the screen, The children are for the projects section.
 main:
   - title: "Home"
     url: /

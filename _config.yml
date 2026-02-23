@@ -1,3 +1,5 @@
+#This is the config file. It contains dependencies, plugins, as well as the author portion which has my information
+#as well as things like the github icon and link to SNHU. The icons were included in the Jekyll theme.
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
@@ -16,12 +18,14 @@ baseurl: ""
 
 description: Bookmark this to keep an eye on my project updates
 
+#these are used to build out the various sections of the navigaton bar
 include:
   - _pages
   
 markdown: kramdown
 highlighter: rouge
 
+#my info for the display on the right of the index page
 author:
   name: "Andrew Allen"
   avatar: "/assets/images/me eportfolio.jpg"
@@ -36,8 +40,8 @@ author:
       icon: "fas fa-link"
       url: "https://my.snhu.edu/my.policy"
 
-
-
+#paginate allows for the author portion to remain stationary while the rest of the page moves
+#Posts are turned off as this is a layout for a blog, although I modified it this way to allow for ePortfolio usage.
 paginate: true
 show_excerpts: false
 collections:
