@@ -1,7 +1,10 @@
 ---
 #Onlythemainneedsthis
 ---
+@charset "utf-8";
+
 @import "minimal-mistakes";
+
 @import "custom";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
