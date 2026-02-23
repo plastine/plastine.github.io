@@ -13,3 +13,6 @@ added
   View CS-340 Enhanced Project (GitHub Folder)
 </a>
 
+<a href="https://docs.google.com/document/d/1UW5A26D6OAmKiRoRCaV2A23lJONb_EFi1B7S20uTFgs/edit?tab=t.0" class ="btn btn--info" target="_blank" rel="noopener">
+  View CS-340 narrative
+</a>
