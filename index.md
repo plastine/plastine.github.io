@@ -12,6 +12,8 @@ Included in this pages are three applications that showcase adaptability, critic
 
 Throughout this capstone I have self-reviewed previous codebases, which created an interesting feedback loop in my brain. I failed to realize that despite spending so much time on prior projects, my understanding of them became foreign through time. 
 
+<hr class="neon-divider">
+
 **video code review:** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jPCo583yrM?si=s7qp9l-jHEG8g_-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
