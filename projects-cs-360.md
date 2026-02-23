@@ -18,16 +18,23 @@ permalink: /projects/cs-360/
 </h1>
 
 **Context:**
-respository link: 
-This project was initially written in Android Studio as a
+
+This project was initially written in Android Studio as a java application, but I wanted to refactor the application so that it would be compatible with IOS (apple). My reasoning for this is because I have an iphone, not an andorid, and I felt like it would be itneresting to develop an application for the device that I have grown so reliant on. I decided on doing a native rerwrite using the progamming language Dart. Instead of using andorid studio, I rewrote this application on Flutter, which is the development kit that utilized Dart. This process forced me to become familar with the concept of widgets to build out the user interface. Most of the underlying logic remained the same, however the way in which the application was built totally differed. 
+
 <a href="https://github.com/plastine/plastine.github.io/tree/main/CS_499_refactor_360" class ="btn btn--primary" target="_blank" rel="noopener">
   View CS-360 Enhanced Project (GitHub Folder)
 </a>
 
 <hr class="neon-divider">
+
 **Course Outcome Accomplished:** 
 
+*Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science*
 
+
+**Justification:**
+
+This application was built using an open source software development kit to create a cross platfrom application. This enables diverse audiences as it breaks the exclusivity behind the initial application to begin with. 
 <a href="https://docs.google.com/document/d/1ZoqS5_Lbb2rtK6Y1NO4ipkbOBYnRYEdBqAdbx1ZUqPo/edit?usp=sharing" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-360 narrative
 </a>
