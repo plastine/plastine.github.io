@@ -5,6 +5,7 @@ permalink: /projects/cs-320/
 ---
 
 Initial Project: CS-320 Project Two
+Context: *This project initially started as as a set of J-Unit tests that were created for both Java classes as well as their counterpart services. The three types of classes being appointments, contacts, as well as tasks. Each of these had CRUD functionality, however there was no database attached to the application.*
 <a href="https://github.com/plastine/CS-320" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-320 original project (GitHub Folder)
 </a>
@@ -16,7 +17,7 @@ Enhanced Project: Databases
   View CS-320 Enhanced Project (GitHub Folder)
 </a>
 
-Context:This project initially started as as a set of J-Unit tests that were created for both Java classes as well as their counterpart services. The three types of classes being appointments, contacts, as well as tasks. Each of these had CRUD functionality, however there was no database attached to the application. 
+
 
 For the enhancement, I created a new set of J-Unit test cases. I also wired a local database(mySQL) with an XAMPP control panel. Although functional, the database did not serve well for testing. This prompted me to convert the application into a maven project. I then decided to utilize mockito for database testing, as I felt this thematically fit with the initial application while also serving the purpose of an enhancment. I created eight new test cases through JUNIT, and boosted test coverage up to nearly 90%, which was not initially required for the course.
 
