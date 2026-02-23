@@ -5,6 +5,10 @@ permalink: /projects/cs-320/
 ---
 
 Initial Project: CS-320 Project Two
+<a href="https://github.com/plastine/CS-320" class ="btn btn--info" target="_blank" rel="noopener">
+  View CS-320 original project (GitHub Folder)
+</a>
+
 
 Enhanced Project: Databases
 
