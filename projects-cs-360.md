@@ -6,7 +6,9 @@ permalink: /projects/cs-360/
 <!--blue dull html to show it is the old project -->
 <h1 style="color:#4a90e2;">Initial Project: CS-360 Project Three</h1>
 
-**Context:** *This application was designed as an inventory app, with the ability to add new items containing their own primary key within an SQL database, along with a seperate user database for logging in. The users can also view the list of items within the inventory, delete, and update said items. Permsissions for SMS are also included.*
+**Context:** 
+
+*This application was designed as an inventory app, with the ability to add new items containing their own primary key within an SQL database, along with a seperate user database for logging in. The users can also view the list of items within the inventory, delete, and update said items. Permsissions for SMS are also included.*
 
 <!-- this is the best way I could personally implement folders into github pages. I decided on using buttons as well-->
 <a href="https://github.com/plastine/CS-360" class ="btn btn--info" target="_blank" rel="noopener">

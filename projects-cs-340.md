@@ -7,7 +7,9 @@ permalink: /projects/cs-340/
 <h1 style="color:#4a90e2;">Initial Project: CS-340 Project Two</h1>
 
 
-**Context:** *A simple CRUD API for MongoDB using Pymongo*
+**Context:** 
+
+*A simple CRUD API for MongoDB using Pymongo*
 *A robust DashBoard capable of*: 
 *displaying mongoDB json documents, filtering results either based on predetermined specifications or by selecting rows/columns on the table, Displaying database results in a pie chart, Showing the locations (based on longitude and latitude) on a map, with the location highlighted*
 
