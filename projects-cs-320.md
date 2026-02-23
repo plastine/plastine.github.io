@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 title: "Projects"
 permalink: /projects/cs-320/
 ---
