@@ -15,7 +15,7 @@ permalink: /projects/cs-340/
 
 <!-- this is the best way I could personally implement folders into github pages. I decided on using buttons as well-->
 <a href="https://github.com/plastine/CS-340" class ="btn btn--info" target="_blank" rel="noopener">
-  View CS-340 Enhanced Project (GitHub Folder)
+  View CS-340 Original Project (GitHub Folder)
 </a>
 
 <hr class="neon-divider">
