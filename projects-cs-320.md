@@ -13,8 +13,10 @@ permalink: /projects/cs-320/
   View CS-320 original project (GitHub Folder)
 </a>
 
+<h1 style="color:#ff2fdc; text-shadow: 0 0 8px rgba(255,47,220,0.8);">
+  Enhanced Project: Databases
+</h1>
 
-**Enhanced Project:** Databases
 
 <a href="https://github.com/plastine/plastine.github.io/tree/main/CS-499_refactor_CS_320" class ="btn btn--primary" target="_blank" rel="noopener">
   View CS-320 Enhanced Project (GitHub Folder)
