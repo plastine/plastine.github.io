@@ -3,7 +3,7 @@ layout: archive
 title: "CS-499 Capstone"
 author_profile: true
 header:
-  overlay_image: /assets/images/neon art portfolio.jpg
+  overlay_image: /assets/images/minty portfolio.jpg
   overlay_filter: 0.11
 ---
 <!-- This is the frontdown metadata portion of the markdown files. This website relies on minimal mistakes and github pages, with the copyright material posted as a link in the about section--> 
