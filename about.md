@@ -12,3 +12,10 @@ I am currently a full-time worker at the 7030 Walmart Distribution Center. I man
 <hr class="neon-divider">
 
  I am also a competitive yugioh player (yummy best deck). Share some 3D prints with me! 
+
+<hr class="neon-divider">
+
+**licensing:**
+<a href="https://mmistakes.github.io/minimal-mistakes/docs/license/" class ="btn btn--info" target="_blank" rel="noopener">
+  Githut Documentation
+</a>
