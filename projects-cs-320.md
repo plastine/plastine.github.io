@@ -4,10 +4,12 @@ title: "Projects"
 permalink: /projects/cs-320/
 ---
 
-## Initial Project: CS-320 Project Two
+# Initial Project: CS-320 Project Two
 **Context:** 
 
 *This project initially started as as a set of J-Unit tests that were created for both Java classes as well as their counterpart services. The three types of classes being appointments, contacts, as well as tasks. Each of these had CRUD functionality, however there was no database attached to the application.*
+
+
 <a href="https://github.com/plastine/CS-320" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-320 original project (GitHub Folder)
 </a>
