@@ -11,3 +11,5 @@ Hello! My name is Andrew. This is a github pages for the capstone course 499 lev
 Included in this pages are three applications that showcase adaptability, critical and abstract thinking, an understanding of scope, and code that meets industry standards. 
 
 Throughout this capstone I have self-reviewed previous codebases, which created an interesting feedback loop in my brain. I failed to realize that despite spending so much time on prior projects, my understanding of them became foreign through time. 
+
+video code review: 
