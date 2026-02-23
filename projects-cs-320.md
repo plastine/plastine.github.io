@@ -12,7 +12,7 @@ Initial Project: CS-320 Project Two
 
 Enhanced Project: Databases
 
-<a href="https://github.com/plastine/plastine.github.io/tree/main/CS-499_refactor_CS_320" class ="btn btn--info" target="_blank" rel="noopener">
+<a href="https://github.com/plastine/plastine.github.io/tree/main/CS-499_refactor_CS_320" class ="btn btn--primary" target="_blank" rel="noopener">
   View CS-320 Enhanced Project (GitHub Folder)
 </a>
 
