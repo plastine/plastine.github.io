@@ -25,7 +25,9 @@ permalink: /projects/cs-320/
 **Context:**
 
 For the enhancement, I created a new set of J-Unit test cases. I also wired a local database(mySQL) with an XAMPP control panel. Although functional, the database did not serve well for testing. This prompted me to convert the application into a maven project. I then decided to utilize mockito for database testing, as I felt this thematically fit with the initial application while also serving the purpose of an enhancment. I created eight new test cases through JUNIT, and boosted test coverage up to nearly 90%, which was not initially required for the course.
+
 <!--button for the enhanced project-->
+
 <a href="https://github.com/plastine/plastine.github.io/tree/main/CS-499_refactor_CS_320" class ="btn btn--primary" target="_blank" rel="noopener">
   View CS-320 Enhanced Project (GitHub Folder)
 </a>
