@@ -39,6 +39,7 @@ This project was initially written in Android Studio as a java application, but 
 **Justification:**
 
 This application was built using an open source software development kit to create a cross platfrom application. This enables diverse audiences as it breaks the exclusivity behind the initial application to begin with. 
+
 <!--narrative-->
 <a href="https://docs.google.com/document/d/1ZoqS5_Lbb2rtK6Y1NO4ipkbOBYnRYEdBqAdbx1ZUqPo/edit?usp=sharing" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-360 narrative

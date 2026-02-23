@@ -10,6 +10,7 @@ permalink: /projects/cs-340/
 **Context:** *A simple CRUD API for MongoDB using Pymongo*
 *A robust DashBoard capable of*: 
 *displaying mongoDB json documents, filtering results either based on predetermined specifications or by selecting rows/columns on the table, Displaying database results in a pie chart, Showing the locations (based on longitude and latitude) on a map, with the location highlighted*
+
 <!-- this is the best way I could personally implement folders into github pages. I decided on using buttons as well-->
 <a href="https://github.com/plastine/CS-340" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-340 Enhanced Project (GitHub Folder)
