@@ -3,8 +3,7 @@ layout: splash
 title: "Projects"
 permalink: /projects/cs-320/
 ---
-
-# Initial Project: CS-320 Project Two
+<h1 style="color:#4a90e2;">Initial Project: CS-320 Project Two</h1>
 **Context:** 
 
 *This project initially started as as a set of J-Unit tests that were created for both Java classes as well as their counterpart services. The three types of classes being appointments, contacts, as well as tasks. Each of these had CRUD functionality, however there was no database attached to the application.*
