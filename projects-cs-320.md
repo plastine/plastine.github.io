@@ -14,6 +14,8 @@ permalink: /projects/cs-320/
   View CS-320 original project (GitHub Folder)
 </a>
 
+<hr class="neon-divider">
+
 <h1 style="color:#ff2fdc; text-shadow: 0 0 8px rgba(255,47,220,0.8);">
   Enhanced Project: Databases
 </h1>
