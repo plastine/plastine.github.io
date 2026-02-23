@@ -13,7 +13,7 @@ permalink: /projects/cs-320/
 <a href="https://github.com/plastine/CS-320" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-320 original project (GitHub Folder)
 </a>
----
+
 <h1 style="color:#ff2fdc; text-shadow: 0 0 8px rgba(255,47,220,0.8);">
   Enhanced Project: Databases
 </h1>
@@ -25,9 +25,9 @@ For the enhancement, I created a new set of J-Unit test cases. I also wired a lo
 <a href="https://github.com/plastine/plastine.github.io/tree/main/CS-499_refactor_CS_320" class ="btn btn--primary" target="_blank" rel="noopener">
   View CS-320 Enhanced Project (GitHub Folder)
 </a>
----
+
 <hr class="neon-divider">
----
+
 **Course Outcome Accomplished:** 
 
 *develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources*
