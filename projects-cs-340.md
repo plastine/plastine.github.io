@@ -21,6 +21,9 @@ permalink: /projects/cs-340/
 </h1>
 
 **Context:**
+
+This enhancement took the most work, research, and testing to perfect. 
+
 repository link:
 added
 
@@ -29,6 +32,8 @@ added
 </a>
 
 <hr class="neon-divider">
+
+**Course Outcome Accomplished:** 
 
 <a href="https://docs.google.com/document/d/1UW5A26D6OAmKiRoRCaV2A23lJONb_EFi1B7S20uTFgs/edit?tab=t.0" class ="btn btn--info" target="_blank" rel="noopener">
   View CS-340 narrative

@@ -25,6 +25,7 @@ This project was initially written in Android Studio as a
 </a>
 
 <hr class="neon-divider">
+**Course Outcome Accomplished:** 
 
 
 <a href="https://docs.google.com/document/d/1ZoqS5_Lbb2rtK6Y1NO4ipkbOBYnRYEdBqAdbx1ZUqPo/edit?usp=sharing" class ="btn btn--info" target="_blank" rel="noopener">
