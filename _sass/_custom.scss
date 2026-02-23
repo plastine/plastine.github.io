@@ -14,3 +14,16 @@
 .layout--splash .page__content h1 {
   color: #1abc9c; /* teal example */
 }
+
+.neon-divider {
+  border: none;
+  height: 1px;
+  margin: 2.5rem 0;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #ff2fdc,
+    transparent
+  );
+  box-shadow: 0 0 6px rgba(255,47,220,0.6);
+}
