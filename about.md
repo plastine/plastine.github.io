@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 ---
-I am currently a senior at Southern New Hampshire Univeristy. Aside from my educational background, I enjoy spending time with my loving partner as well as our kiddo.
+2026 SNHU Graduate. 
 
 <hr class="neon-divider">
 
