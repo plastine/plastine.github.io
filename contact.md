@@ -12,6 +12,6 @@ permalink: /contact/
 
 <hr class="neon-divider">
 
-**resume** (href="https://drive.google.com/file/d/1_7WrsS2Vtic8AqXfSV6-ypzWOdEQUNYM/view?usp=drive_link">Google Drive PDF</a>)
+**resume** <a href="https://drive.google.com/file/d/1_7WrsS2Vtic8AqXfSV6-ypzWOdEQUNYM/view?usp=drive_link">Google Drive PDF</a>
 
 [def]: mailto:aj77794@gmail.com
